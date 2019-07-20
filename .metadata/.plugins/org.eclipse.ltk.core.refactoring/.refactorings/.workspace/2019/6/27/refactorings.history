@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;springboot-dubbo-service-cosumer&apos; to &apos;springboot-dubbo-service-consumer&apos;" description="Rename resource &apos;springboot-dubbo-service-cosumer&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/springboot-dubbo-service-cosumer" name="springboot-dubbo-service-consumer" stamp="1561890939127" updateReferences="true"/>
+</session>

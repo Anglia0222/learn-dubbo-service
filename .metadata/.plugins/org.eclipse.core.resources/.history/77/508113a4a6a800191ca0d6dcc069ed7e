@@ -1,0 +1,5 @@
+package com.anglia.li.service;
+
+public interface CallbackListener {
+
+}

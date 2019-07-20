@@ -1,0 +1,8 @@
+computeSourcePath=true
+contextsDir=\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+managerUrl=http\://localhost\:8080/manager
+projectsInSourcePath=dubbo-admin-server;springboot-dubbo-service;springboot-dubbo-service-consumer;springboot-dubbo-service-provider;
+tomcatConfigFile=\\conf\\server.xml
+tomcatJRE=1561793024585
+tomcatVersion=tomcatV7

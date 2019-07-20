@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;dubbo-admin-server&apos;&#x0D;&#x0A;- Original project: &apos;dubbo-admin-server&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     dubbo-governance.log&#x0D;&#x0A;     dubbo-governance.log.2019-06-29.0.gz&#x0D;&#x0A;     dubbo-governance.log.2019-07-02.0.gz" description="Delete elements" element1="dubbo-governance.log.2019-06-29.0.gz" element2="dubbo-governance.log" element3="dubbo-governance.log.2019-07-02.0.gz" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1562175072426" subPackages="false" version="1.0"/>
+</session>

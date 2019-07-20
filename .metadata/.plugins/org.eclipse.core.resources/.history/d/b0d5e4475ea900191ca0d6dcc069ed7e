@@ -1,0 +1,5 @@
+package com.anglia.li.stub;
+
+public class SayHiServiceStub {
+
+}

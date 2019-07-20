@@ -1,0 +1,6 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/springboot-dubbo-service-consumer/src/main/resources/dubbo-consumer-users.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springboot-dubbo-service-consumer/src/main/resources/dubbo-consumer.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springboot-dubbo-service-cosumer/src/main/resources/dubbo-cosumer.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springboot-dubbo-service-provider/src/main/resources/dubbo-provider-users.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springboot-dubbo-service-provider/src/main/resources/dubbo-user.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage id\="com.springsource.sts.config.ui.editors.namespaces" index\="1" kind\="formPage"/>
+eclipse.preferences.version=1

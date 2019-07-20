@@ -1,0 +1,29 @@
+package com.anglia.li.stub;
+
+import javax.validation.constraints.NotNull;
+
+import com.anglia.li.bean.User;
+import com.anglia.li.service.CallbackListener;
+import com.anglia.li.service.SayHiService;
+
+public class SayHiServiceStub implements SayHiService{
+	
+	
+
+	public SayHiServiceStub() {
+		super();
+	}
+
+	@Override
+	public String sayHiToUser(@NotNull String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String findUser(User user, CallbackListener back) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
