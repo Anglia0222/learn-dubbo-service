@@ -10,6 +10,7 @@ public class CosumerApp {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CosumerApp.class, args);
+		//测试提交
 	}
 
 }
